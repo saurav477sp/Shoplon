@@ -1,0 +1,9 @@
+*.dart linguist-detectable=true
+android/** linguist-vendored
+ios/** linguist-vendored
+build/** linguist-vendored
+*.c linguist-vendored
+*.cpp linguist-vendored
+*.cmake linguist-vendored
+*.swift linguist-vendored
+*.html linguist-vendored
