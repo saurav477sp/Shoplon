@@ -45,3 +45,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+// change just gradle vaesion in gradle-wrapper and then runs
