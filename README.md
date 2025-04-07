@@ -16,13 +16,6 @@ Coming soon to the Google Play Store and Apple App Store! Stay tuned for updates
 🛠️ Getting Started
 This project is built with Flutter, Google's UI toolkit for crafting natively compiled applications.
 
-📚 Resources
-Lab: Write your first Flutter app
-
-Cookbook: Useful Flutter samples
-
-Flutter Documentation
-
 💻 Tech Stack
 Flutter – Cross-platform app development
 
@@ -35,8 +28,9 @@ Want to contribute? Awesome! Feel free to fork the repo and submit a PR.
 
 📬 Contact
 Have questions or feedback?
-📧 Email: your-email@example.com
-🐦 Twitter: @yourhandle
+📧 Email: psaurav477@gmail.com
+📬 Connect
+<a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/sauravprajapati/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20us-blue?style=flat&logo=linkedin" alt="LinkedIn"> </a>
 
 ⭐ Star this repo if you like it! ⭐
 
