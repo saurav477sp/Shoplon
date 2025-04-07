@@ -1,6 +1,8 @@
 project
 A new Flutter project.
 
+<a href="https://shoplon-landing-page.vercel.app/">Landing Page</a>
+
 Getting Started
 This project is a starting point for a Flutter application.
 
