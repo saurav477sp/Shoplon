@@ -27,10 +27,9 @@ Vercel – Landing Page Hosting
 Want to contribute? Awesome! Feel free to fork the repo and submit a PR.
 
 📬 Contact
-Have questions or feedback?
+Have questions or feedback? 
 📧 Email: psaurav477@gmail.com
-📬 Connect
-<a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/sauravprajapati/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20us-blue?style=flat&logo=linkedin" alt="LinkedIn"> </a>
+📬 Connect <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/sauravprajapati/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20us-blue?style=flat&logo=linkedin" alt="LinkedIn"> </a>
 
 ⭐ Star this repo if you like it! ⭐
 
